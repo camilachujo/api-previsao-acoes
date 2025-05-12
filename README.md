@@ -23,10 +23,11 @@ Este projeto tem como objetivo prever os preços de fechamento das ações do Ba
 
 Ciar e ativar um ambiente virtual:
 
-`python3 -m venv .venv`
-`source .venv/bin/activate   # Linux/macOS`
-`.venv\Scripts\activate      # Windows`     
-
+```
+python3 -m venv .venv
+source .venv/bin/activate   # Linux/macOS
+.venv\Scripts\activate      # Windows
+```
 
 Treinar o modelo:
 
