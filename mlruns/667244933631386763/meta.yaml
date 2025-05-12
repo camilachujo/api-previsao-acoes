@@ -1,0 +1,6 @@
+artifact_location: file:///home/camila/Documentos/api-previsao-acoes/mlruns/667244933631386763
+creation_time: 1747069042369
+experiment_id: '667244933631386763'
+last_update_time: 1747069042369
+lifecycle_stage: active
+name: previsao-acoes-prophet

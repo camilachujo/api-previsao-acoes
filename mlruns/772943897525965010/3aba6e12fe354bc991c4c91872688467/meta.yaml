@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/772943897525965010/3aba6e12fe354bc991c4c91872688467/artifacts
+end_time: 1747069473908
+entry_point_name: ''
+experiment_id: '772943897525965010'
+lifecycle_stage: active
+run_id: 3aba6e12fe354bc991c4c91872688467
+run_name: learned-skunk-490
+run_uuid: 3aba6e12fe354bc991c4c91872688467
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747069473856
+status: 3
+tags: []
+user_id: root

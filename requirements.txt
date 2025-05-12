@@ -1,0 +1,9 @@
+fastapi
+mlflow
+pandas
+plotly
+prophet
+scikit-learn
+streamlit
+yfinance
+nbformat
